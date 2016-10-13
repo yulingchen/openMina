@@ -1,0 +1,23 @@
+{
+  "name": "openmina",
+  "version": "0.0.1",
+  "description": "一个开放的、运行微信小程序的Web MINA框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulingchen/openMina.git"
+  },
+  "keywords": [
+    "微信小程序",
+    "MINA"
+  ],
+  "author": "yulingchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulingchen/openMina/issues"
+  },
+  "homepage": "https://github.com/yulingchen/openMina#readme"
+}
