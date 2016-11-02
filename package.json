@@ -4,7 +4,7 @@
   "description": "一个开放的、运行微信小程序的Web MINA框架",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node mina/server.js"
   },
   "repository": {
     "type": "git",
